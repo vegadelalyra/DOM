@@ -1,0 +1,8 @@
+1. Realizar un formulario que permita agregar un producto indicando:
+• nombre,
+• precio,
+• cantidad y
+• categoría.
+2. Al guardar, debo agregarlo a un array y mostrarlo en consola.
+3. Posteriormente mostrarlo en una tabla en la parte de la derecha, donde estén todos los productos.
+4. La última columna de la tabla debe poseer un botón que permita eliminar dicho elemento del Array y actualizar la tabla
